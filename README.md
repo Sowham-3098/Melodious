@@ -1,11 +1,10 @@
-# Spotify Clone 🎧
+# Melodious 🎧
 
-A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
+A music app built with React JS and Tailwind CSS, showcasing music playlists, search functionality, player controls, albums, and genre options ensuring seamless integration and smooth user experience.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,12 +15,13 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 ## Features
 
 - Dynamic user interface
+- Search Functionality
+- Music player controls
+- Albums and Genres options
 - Responsive design, mobile-friendly
 - Seamless navigation using React-DOM
 
-## Demo
 
-Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 ## Technologies
 
@@ -33,11 +33,11 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
+    git clone https://github.com/yourusername/melodious.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd spotify-clone
+    cd melodious
     ```
 3. Install dependencies:
     ```sh
@@ -63,4 +63,3 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
-
