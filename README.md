@@ -1,4 +1,6 @@
-# Melodious 🎧
+
+![a-vibrant-circular-music-player-logo-named-melodio-s2veOKs5TXilIXFmYTIaBw--TJ_Qf_JTHm9FcSo6U1lKQ-removebg-preview](https://github.com/Sowham-3098/Melodious/assets/95470604/c9cccddd-1d62-4f39-a688-38d9bcd6640a)
+
 
 A music app built with React JS and Tailwind CSS, showcasing music playlists, search functionality, player controls, albums, and genre options ensuring seamless integration and smooth user experience.
 
